@@ -13,6 +13,5 @@ Claro, aquí tienes un resumen de las tareas que se describen:
     - `GET /libros/{id_libro}`: Retorna un libro por el id.
     - `POST /libros`: Crea un nuevo recurso libro.
 
-Espero que esto te ayude a entender mejor las tareas. Si tienes más preguntas, no dudes en preguntar. 😊
 [![Captura-de-pantalla-2024-05-17-221750.png](https://i.postimg.cc/ZqThd1n1/Captura-de-pantalla-2024-05-17-221750.png)](https://postimg.cc/5XkGcKw3)
 [![Captura-de-pantalla-2024-05-17-230942.png](https://i.postimg.cc/D0YM8MH3/Captura-de-pantalla-2024-05-17-230942.png)](https://postimg.cc/LgLTWNmx) 
